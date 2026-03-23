@@ -29,10 +29,13 @@ https://www.youtube.com/@SimVRRacing
 
 1. Download the latest release from the Releases page
 2. Run the application
-3. Select a video or audio file
-4. Choose the audio track you want to analyse
-5. Select whether to detect silent or non-silent sections
-6. Generate the `.srt` output file
+3. Locate and select `ffmpeg.exe`
+4. Select a video or audio file
+5. Choose the audio track you want to analyse
+6. Select whether to detect silent or non-silent sections
+7. Generate the `.srt` output file
+
+`ffmpeg.exe` is required for audio extraction and processing.
 
 ---
 

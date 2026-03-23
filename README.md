@@ -14,6 +14,52 @@ https://www.youtube.com/@SimVRRacing
 
 ## Features
 
+- Opens video or audio files
+- Detects available audio tracks and lets the user choose one
+- Scans for silent or non-silent sections of audio
+- Supports positive or negative timestamp offsets
+- Exports timestamps as an `.srt` subtitle file
+- Useful for importing markers into video editing software
+- Simple desktop interface
+- No manual timestamp editing required
+
+---
+
+## Installation
+
+1. Download the latest release from the Releases page
+2. Run the application
+3. Select a video or audio file
+4. Choose the audio track you want to analyse
+5. Select whether to detect silent or non-silent sections
+6. Generate the `.srt` output file
+
+---
+
+## Usage
+
+Silence2SRT analyses an audio track and creates an `.srt` subtitle file
+containing timestamps for either silent or non-silent sections.
+
+This can then be imported into supported video editing applications
+to help place markers or objects on the timeline more quickly.
+
+---
+
+## Compatibility
+
+- Windows 10 / Windows 11
+- Video and audio files with supported audio tracks
+- `.srt` compatible video editing applications
+
+---
+
+## Known Limitations
+
+- Output accuracy depends on the audio content and detection settings
+- Results may vary depending on background noise and audio quality
+- Marker import behaviour depends on the target video editing application
+
 ---
 
 ## License

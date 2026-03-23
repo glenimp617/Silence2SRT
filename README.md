@@ -9,6 +9,27 @@ Silence2SRT creates an .srt subtitle file from silent or non-silent sections of 
 The team radio graphic at 1:24 in this video was created with the help of Silence2SRT - https://www.youtube.com/watch?v=2LmSJkQ7lCs
 
 https://www.youtube.com/@SimVRRacing
+
 ---
 
 ## Features
+
+---
+
+## License
+
+Silence2SRT is distributed as a binary under a proprietary license.
+See LICENSE.txt for details.
+
+---
+
+## Disclaimer
+
+This software is provided as-is without warranty.
+Use at your own risk.
+
+---
+
+## Support
+
+Bug reports and feedback are welcome via GitHub Issues.

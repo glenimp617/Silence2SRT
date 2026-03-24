@@ -4,7 +4,7 @@
 
 # Silence2SRT
 
-Silence2SRT creates an .srt subtitle file from silent or non-silent sections of an audio file. It is useful in video editing applications for quickly placing objects on the timeline.
+Silence2SRT creates an .srt subtitle file from silent or non-silent sections of an audio file. It is useful in video editing applications for quickly placing objects on the timeline as the .srt can be used for marker points.
 
 The team radio graphic at 1:24 in this video was created with the help of Silence2SRT - https://www.youtube.com/watch?v=2LmSJkQ7lCs
 

@@ -10,6 +10,10 @@ The team radio graphic at 1:24 in this video was created with the help of Silenc
 
 https://www.youtube.com/@SimVRRacing
 
+<p align="center">
+  <img src="images/silence2srt-timeline.png" width="600">
+</p>
+
 ---
 
 ## Features
